@@ -1,0 +1,37 @@
+---
+title: "A title"
+author: "Authors"
+abstract: "Abstract"
+format:
+  docx:
+    reference-doc: template.docx
+    fig-dpi: 600
+bibliography: references.bib
+csl: reference-style.csl
+---
+
+# Keywords
+
+# Introduction
+
+# Materials & Methods
+
+# Results
+
+# Discussion
+
+# Conclusion
+
+# Acknowledgements
+
+# Conflict of Interest
+
+We declare we have no conflict of interest.
+
+# Authors' contributions
+
+# Data accessibility
+
+# Code accessibility
+
+# References

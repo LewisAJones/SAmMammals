@@ -1,0 +1,17 @@
+---
+title: "Supplementary Material for XXX"
+author: "Authors"
+abstract: "Abstract"
+format:
+  docx:
+    reference-doc: template.docx
+    fig-dpi: 600
+bibliography: references.bib
+csl: reference-style.csl
+---
+
+# Supplementary text
+
+# Supplementary tables
+
+# Supplementary figures
